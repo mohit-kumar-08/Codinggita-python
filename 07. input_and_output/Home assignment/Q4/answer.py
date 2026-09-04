@@ -1,0 +1,1 @@
+# By default, input() returns string value.
