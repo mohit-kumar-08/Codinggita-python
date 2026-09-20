@@ -1,0 +1,10 @@
+INPUT:
+    number
+
+PROCESSING:
+    check number%2
+    if remainder is 0 -> Even
+    otherwise -> Odd
+    
+OUTPUT:
+    Even or Odd

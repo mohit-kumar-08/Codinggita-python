@@ -1,0 +1,8 @@
+Start
+Read age
+if age >= 18:
+    if true:
+        print "Eligible to vote"
+    otherwise:
+        print "Not eligible to vote"
+Stop

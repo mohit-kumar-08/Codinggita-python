@@ -1,0 +1,12 @@
+INPUT:
+    marks_1
+    marks_2
+    marks_3
+
+PROCESSING:
+    average = (marks_1 + marks_2 + marks_3) / 3
+    If average >= 40 -> Pass
+    otherwise -> Fail
+
+OUTPUT:
+    Pass or Fail

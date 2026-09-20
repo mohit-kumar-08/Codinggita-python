@@ -1,0 +1,16 @@
+Test 1:
+first_number = 10
+second_number = 20
+third_number = 30
+
+Test 2:
+first_number = 40
+second_number = 50
+third_number = 60
+
+
+Output 1:
+30
+
+Output 2:
+60

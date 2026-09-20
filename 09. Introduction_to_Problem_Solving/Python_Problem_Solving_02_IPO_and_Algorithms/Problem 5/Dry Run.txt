@@ -1,0 +1,12 @@
+Test 1:
+price = 2000
+
+Test 2:
+price = 1400
+
+
+Output 1:
+1600
+
+Output 2:
+1400

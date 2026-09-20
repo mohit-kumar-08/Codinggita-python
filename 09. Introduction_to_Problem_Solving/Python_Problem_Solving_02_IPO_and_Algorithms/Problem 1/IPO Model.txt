@@ -1,0 +1,9 @@
+INPUT:
+    First Number
+    Second Number
+
+PROCESSING:
+    Add first and second Number
+    
+OUTPUT:
+    Sum of first and second number

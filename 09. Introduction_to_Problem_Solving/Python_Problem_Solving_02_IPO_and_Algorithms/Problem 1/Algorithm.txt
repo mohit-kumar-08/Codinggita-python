@@ -1,0 +1,6 @@
+Start
+Read first number
+Read second number
+Total = first + second
+Print Total
+Stop

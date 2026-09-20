@@ -1,0 +1,10 @@
+Start
+Read marks_1
+Read marks_2
+Read marks_3
+average = (marks_1 + marks_2 + marks_3) / 3
+if average >= 40:
+    Print Pass
+otherwise:
+    Print Fail
+Stop

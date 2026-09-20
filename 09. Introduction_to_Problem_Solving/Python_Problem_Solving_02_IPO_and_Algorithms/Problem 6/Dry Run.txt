@@ -1,0 +1,16 @@
+Test 1:
+marks_1 = 50
+marks_2 = 60
+marks_3 = 40
+
+Test 2:
+marks_1 = 20
+marks_2 = 30
+marks_3 = 10
+
+
+Output 1:
+Pass
+
+Output 2:
+Fail

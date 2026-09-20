@@ -1,0 +1,6 @@
+Start
+Read a number
+If number % 2 is 0:
+    Print Even
+Otherwise:
+    Print Odd

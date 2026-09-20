@@ -1,0 +1,9 @@
+INPUT:
+    age
+
+PROCESSING:
+    check age >= 18
+    return result
+
+OUTPUT:
+    print the result

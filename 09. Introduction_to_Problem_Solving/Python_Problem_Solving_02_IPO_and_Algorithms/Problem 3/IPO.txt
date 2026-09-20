@@ -1,0 +1,15 @@
+INPUT:
+    First Number
+    Second Number
+    Third Number
+
+PROCESSING:
+    if first_number > second_number AND first_number > third_number:
+        first_number
+    orif second_number > first_number AND second_number > third_number:
+        second_number
+    otherwise:
+        third_number
+
+OUTPUT:
+    first_number or second_number or third_number

@@ -1,0 +1,11 @@
+INPUT:
+    price
+
+PROCESSING:
+    If price >= 2000:
+        final_price = price - price * 20 / 100
+    else:
+        final_price = price
+
+OUTPUT:
+    final_price

@@ -1,0 +1,12 @@
+Test 1:
+age = 10
+
+Test 2:
+age = 40
+
+
+Output 1:
+Eligible to vote
+
+Output 2:
+Not eligible to vote
