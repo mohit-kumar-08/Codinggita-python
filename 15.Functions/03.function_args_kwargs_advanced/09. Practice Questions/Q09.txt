@@ -1,0 +1,1 @@
+When same parameter gets a value both positionally and through **kwargs then, the parameter receive the positional value and the keyord value get stored in the **kwargs dictionary.

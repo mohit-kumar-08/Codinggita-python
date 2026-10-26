@@ -1,0 +1,1 @@
+Type hints alone do not prevent a function from receiving a value of the wrong type because they are only a placeholder, and are used just to tell other's at the function definition that what what datatype the parameters need and what datatype will be of output.

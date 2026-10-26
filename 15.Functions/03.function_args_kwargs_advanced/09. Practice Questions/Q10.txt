@@ -1,0 +1,3 @@
+*args in a function definition is used to store all, other than parameters, positional values into a tuple named args.
+
+*values in function call is used to unpack a list or tuple named values.
